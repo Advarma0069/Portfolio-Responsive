@@ -304,38 +304,11 @@ header.sticky {
   transform: scale(1.01) translateY(-5px);
   color: var(--text-color);
   background: var(--main-color);
+  border-radius: 50%;
 }
-
-/* .contact-form form{
-	position: relative;
+.contact-icons img{
+  border-radius: 50%;
 }
-.contact-form form input,
-form textarea{
-	border: none;
-	outline: none;
-	width: 100%;
-	padding: 18px;
-	background: #12141c;
-	color: var(--text-color);
-	font-size: 1rem;
-	font-weight: 600;
-	margin-bottom: 0.5rem;
-	border-radius: 0.5rem;
-}
-.contact-form textarea{
-	resize: none;
-	height: 220px;
-}
-.contact-form form .send{
-	display: inline-block;
-	font-size: 17px;
-	font-weight: 500;
-	background: var(--main-color);
-	color: var(--text-color);
-	width: 190px;
-	transition: all .40s ease;
-	cursor: pointer;
-} */
 
 .last-text p {
   text-align: center;
