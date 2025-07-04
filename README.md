@@ -9,7 +9,7 @@ Mention the tech stack:
 - CSS3 for styling
 - JavaScript for interactivity
 6. Screenshots (Optional)
-  ![image](https://github.com/user-attachments/assets/4a806893-a471-4c2c-af26-d6550e2e03e5)
+![image](https://github.com/user-attachments/assets/c5685bbb-0603-4823-877e-e0bd9c00a0c1)
 
 About me: 
-![image](https://github.com/user-attachments/assets/e9172cb4-c593-423d-893d-9daf988b74ca)
+![image](https://github.com/user-attachments/assets/c2219d1d-02cc-422c-8953-06e143de3b44)
