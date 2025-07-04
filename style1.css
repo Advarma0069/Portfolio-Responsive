@@ -478,7 +478,7 @@ img {
   left: 50%;
   transform: translateX(-50%);
   height: 4px;
-  width: 100px;
+  width: 240px;
   background-color: #eb4a4a;
   border-radius: 2px;
 }
