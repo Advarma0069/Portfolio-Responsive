@@ -1,11 +1,11 @@
 const header = document.querySelector("header");
 const typed = new Typed(".multiple-text", {
   strings: [
-    "Frontend Developer",
-    "Backend Developer",
+    "Frontend or Backend Developer",
+    "Software Testing",
     "Software Developer",
-    "Data Analysis",
-    "Java Developer",
+    "Data or Business Analysis",
+    "Java Python Developer",
   ],
   typeSpeed: 80,
   backSpeed: 80,
