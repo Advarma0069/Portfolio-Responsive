@@ -5,7 +5,7 @@ const typed = new Typed(".multiple-text", {
     "Software Testing",
     "Software Developer",
     "Data or Business Analysis",
-    "Java Python Developer",
+    "Java or Python Developer",
   ],
   typeSpeed: 80,
   backSpeed: 80,
