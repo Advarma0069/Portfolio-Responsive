@@ -1,4 +1,17 @@
 const header = document.querySelector("header");
+const typed = new Typed(".multiple-text", {
+  strings: [
+    "Frontend Developer",
+    "Backend Developer",
+    "Software Developer",
+    "Data Analysis",
+    "Java Developer",
+  ],
+  typeSpeed: 80,
+  backSpeed: 80,
+  backDelay: 1200,
+  loop: true,
+});
 
 window.addEventListener ("scroll", function() {
 	header.classList.toggle ("sticky", window.scrollY >0);
@@ -25,4 +38,4 @@ const sr = ScrollReveal ({
 
 sr.reveal('.home-text',{delay:190, origin:'bottom'})
 
-sr.reveal('.about,.services,.portfolio,.contact',{delay:200, origin:'bottom'})
+sr.reveal('.about,.skills,.portfolio,.contact',{delay:200, origin:'bottom'})
