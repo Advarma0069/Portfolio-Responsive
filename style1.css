@@ -170,10 +170,6 @@ header.sticky {
   gap: 1rem;
   margin-bottom: 3rem;
 }
-.about-in h5 {
-  font-size: 22px;
-  font-weight: 600;
-}
 .about-img img {
   height: auto;
   width: 100%;
