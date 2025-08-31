@@ -1,7 +1,8 @@
 const header = document.querySelector("header");
 const typed = new Typed(".multiple-text", {
   strings: [
-    ".NET Developer"    
+	  ".NET Developer",
+	  "in Sapeagle ERP Pvt lvt."
   ],
   typeSpeed: 80,
   backSpeed: 80,
