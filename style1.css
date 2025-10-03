@@ -611,8 +611,8 @@ img {
 /* footer */
 .floating-contact {
   position: fixed;
-  top: 50%;
-  left: 0;
+  top: 65%;
+  left: 15px;
   transform: translateY(-50%);
   display: flex;
   flex-direction: column;
@@ -629,7 +629,7 @@ img {
   background: #25d366; /* WhatsApp green */
   color: #fff;
   font-size: 1.5rem;
-  border-radius: 0 50% 50% 0;
+  border-radius: 50%;
   transition: 0.3s;
   text-decoration: none;
 }
