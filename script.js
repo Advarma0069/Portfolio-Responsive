@@ -1,3 +1,17 @@
+const menuToggle = document.getElementById('menu-toggle');
+const navbar1 = document.getElementById('navbar');
+
+menuToggle.addEventListener('click', () => {
+  navbar1.classList.toggle('active');
+});
+// Close menu when clicking a link
+document.querySelectorAll('.navbar li a').forEach(link => {
+  link.addEventListener('click', () => {
+    navbar1.classList.remove('active');
+  });
+});
+
+
 const header = document.querySelector("header");
 const typed = new Typed(".multiple-text", {
   strings: [
