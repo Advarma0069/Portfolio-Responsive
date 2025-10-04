@@ -50,6 +50,7 @@ header {
   text-decoration: none;
   font-weight: bold;
   margin: 0 2px;
+  padding: 10px;
   border-radius: 0.5rem;
   transition: all 0.4s ease;
 }
