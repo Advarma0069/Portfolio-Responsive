@@ -371,7 +371,7 @@ header .navbar li a:hover {
 
   .about-img img {
     width: 250px;
-    height: 250px;
+    height: 320px;
   }
 
   .about-text {
@@ -394,8 +394,8 @@ header .navbar li a:hover {
 
 @media (max-width: 480px) {
   .about-img img {
-    width: 200px;
-    height: 200px;
+    width: 250px;
+    height: 320px;
   }
 
   .about-text h2 {
