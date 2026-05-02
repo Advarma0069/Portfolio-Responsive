@@ -74,8 +74,7 @@ document.querySelectorAll(".navbar li a").forEach((link) => {
 
 const typed = new Typed(".multiple-text", {
   strings: [
-    ".Net Developer",
-    "at Sapeagle ERP Pvt Ltd.",
+    "At Beumer Group Pvt Ltd.",
     // "Software Developer",
     // "Data Analysis",
   ],
